@@ -1,4 +1,4 @@
-# Sukhrob Absullaev
+# Sukhrob Abdullaev
 
 ## About Me
 Software Engineer. With 2+ years in Frontend Development, I specialize in modern web technologies and frontend frameworks.
