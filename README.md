@@ -1,7 +1,7 @@
 # Sukhrob Abdullaev
 
 ## About Me
-Software Engineer. With 2+ years in Frontend Development, I specialize in modern web technologies and frontend frameworks.
+Software Engineer. With 2.5+ years in Frontend Development, I specialize in modern web technologies and frontend frameworks.
 
 ### Frontend
 ![HTML](https://skillicons.dev/icons?i=html)
