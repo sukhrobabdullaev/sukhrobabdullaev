@@ -12,8 +12,10 @@ I'm a passionate **Software Engineer** with over 3 years of experience building 
 I enjoy contributing to the tech community through open-source projects, blog posts, and educational videos.
 
 <p align="center">
+ <img src="[https://img.shields.io/badge/any_text-you_like-blue](https://img.shields.io/badge/building-8A2BE2)" alt="building"/>
+  
   <img src="https://media.licdn.com/dms/image/v2/D4D3DAQGT_Fp7ZFjmig/image-scale_191_1128/B4DZY8ssiqGwAc-/0/1744775073269/uzsummarize_cover?e=1747303200&v=beta&t=80dmaBA3085NotnxrMx_A10xmBEIPCSFE9HEaIbmeEE" alt="uzsummarize ai tool"/>
-  I am building [UzSummarize](https://www.uzsummarize.uz/en)
+  I am building <a href="https://www.uzsummarize.uz/en">UzSummarize</a>
 </p>
 
 
