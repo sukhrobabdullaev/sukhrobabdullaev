@@ -40,7 +40,7 @@ Software Engineer. With 2.5+ years in Software engineering, I specialize in mode
 ![Apidog](https://img.shields.io/badge/Apidog-%23FF4D4F.svg?style=for-the-badge&logo=swagger&logoColor=white)
 
 ### Connect with Me
-- **Blog**: [Sukhrob's I/O](https://www.sukhrob.io)
-- **Email**: sukhrobabdullaevweb@gmail.com
+- **Blog**:  [Sukhrob's I/O](https://www.sukhrob.io)
+- **Email**: sukhrobtech@gmail.com
 
 Feel free to explore my repositories to see my work and contributions to the software engineering community. Let's connect and collaborate on exciting projects!
