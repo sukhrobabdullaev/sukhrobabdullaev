@@ -15,9 +15,8 @@ I enjoy contributing to the tech community through open-source projects, blog po
 
 ### 🚀 Tech Stack
 
-#### 👨‍🎨 Frontend  
-![HTML](https://skillicons.dev/icons?i=html)  
-![CSS](https://skillicons.dev/icons?i=css)  
+#### 🌐 Frontend  
+![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css)  
 ![TailwindCSS](https://skillicons.dev/icons?i=tailwind)  
 ![Sass](https://skillicons.dev/icons?i=sass)  
 ![JavaScript](https://skillicons.dev/icons?i=js)  
