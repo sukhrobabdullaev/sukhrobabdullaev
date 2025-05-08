@@ -12,7 +12,6 @@ Software Engineer. With 2.5+ years in Software engineering, I specialize in mode
 ![TypeScript](https://skillicons.dev/icons?i=ts)
 ![React](https://skillicons.dev/icons?i=react)
 ![Vite](https://skillicons.dev/icons?i=vite)
-![ShadcnUI](https://skillicons.dev/icons?i=shadcn)
 ![Next.js](https://skillicons.dev/icons?i=nextjs)
 ![Redux](https://skillicons.dev/icons?i=redux)
 ![Zustand](https://img.shields.io/badge/Zustand-%23121011.svg?style=for-the-badge&logo=zustand&logoColor=white)
@@ -35,6 +34,7 @@ Software Engineer. With 2.5+ years in Software engineering, I specialize in mode
 
 ### 📦 Cloud Storage & Databases
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Supabase](https://skillicons.dev/icons?i=supabase)
 ![Amazon S3](https://img.shields.io/badge/Amazon%20S3-%23FF9900.svg?style=for-the-badge&logo=amazon-s3&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=white)
 ![UploadThing](https://img.shields.io/badge/UploadThing-000000?style=for-the-badge&logo=cloud-upload&logoColor=white)
