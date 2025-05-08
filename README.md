@@ -11,6 +11,12 @@
 I'm a passionate **Software Engineer** with over 3 years of experience building modern web apps. I focus on performance, clean architecture, and creating smooth user experiences using cutting-edge technologies.  
 I enjoy contributing to the tech community through open-source projects, blog posts, and educational videos.
 
+<p align="center">
+  <img src="https://media.licdn.com/dms/image/v2/D4D3DAQGT_Fp7ZFjmig/image-scale_191_1128/B4DZY8ssiqGwAc-/0/1744775073269/uzsummarize_cover?e=1747303200&v=beta&t=80dmaBA3085NotnxrMx_A10xmBEIPCSFE9HEaIbmeEE" alt="uzsummarize ai tool"/>
+  I am building [UzSummarize](https://www.uzsummarize.uz/en)
+</p>
+
+
 ---
 
 ### 🚀 Tech Stack
