@@ -1,7 +1,7 @@
 # Sukhrob Abdullaev
 
 ## About Me
-Software Engineer. With 2.5+ years in Frontend Development, I specialize in modern web technologies and frontend frameworks.
+Software Engineer. With 2.5+ years in Software engineering, I specialize in modern web technologies and frontend frameworks.
 
 ### Frontend
 ![HTML](https://skillicons.dev/icons?i=html)
@@ -29,7 +29,7 @@ Software Engineer. With 2.5+ years in Frontend Development, I specialize in mode
 ![Postman](https://skillicons.dev/icons?i=postman)
 
 ## Connect with Me
-- **Blog**: [Sukhrob's blog](https://www.sukhrob-abdullaev.uz)
+- **Sukhrob's I/O**: [Sukhrob's I/O](https://www.sukhrob.io)
 - **Email**: sukhrobabdullaevweb@gmail.com
 
 Feel free to explore my repositories to see my work and contributions to the software engineering community. Let's connect and collaborate on exciting projects!
