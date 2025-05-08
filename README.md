@@ -22,6 +22,8 @@ Software Engineer. With 2.5+ years in Software engineering, I specialize in mode
 ![Express](https://skillicons.dev/icons?i=express)
 ![Nodejs](https://skillicons.dev/icons?i=nodejs)
 ![Redis](https://skillicons.dev/icons?i=redis)
+![PostgreSQL](https://skillicons.dev/icons?i=postgres)
+![Prisma](https://skillicons.dev/icons?i=prisma)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Supabase](https://skillicons.dev/icons?i=supabase)
 ![Amazon S3](https://img.shields.io/badge/Amazon%20S3-%23FF9900.svg?style=for-the-badge&logo=amazon-s3&logoColor=white)
