@@ -13,7 +13,7 @@ I enjoy contributing to the tech community through open-source projects, blog po
 
 <img src="https://img.shields.io/badge/building-8A2BE2" alt="building"/>
 <p align="center">
-  I am working on <a href="https://www.uzsummarize.uz/en">UzSummarize</a>
+  I am building <a href="https://www.uzsummarize.uz/en">UzSummarize</a>
 </p>
 
 
