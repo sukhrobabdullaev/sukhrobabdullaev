@@ -8,13 +8,13 @@
 
 ### 💻 About Me
 
-I'm a passionate **Software Engineer** with over 3 years of experience building modern web apps. I focus on performance, clean architecture, and creating smooth user experiences using cutting-edge technologies.  
+I'm a passionate **Software Engineer** with over 4 years of experience building modern web apps. I focus on performance, clean architecture, and creating smooth user experiences using cutting-edge technologies.  
 I enjoy contributing to the tech community through open-source projects, blog posts, and educational videos.
 
 <img src="https://img.shields.io/badge/building-8A2BE2" alt="building"/>
-<p align="center">
+<!-- <p align="center">
   I am building <a href="https://www.uzsummarize.uz/en">UzSummarize</a>
-</p>
+</p> -->
 
 
 ---
